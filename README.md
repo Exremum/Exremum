@@ -17,3 +17,9 @@
       height="40"
     />
   </a>
+  <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+      alt="vscode"
+      width="40"
+      height="40"
+    />
