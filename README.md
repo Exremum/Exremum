@@ -8,6 +8,7 @@
 
 <h2 align="center">I have skills:</h2>
 
+<td align="center" width="110" height="90">
 <a href="#">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
       </a>
