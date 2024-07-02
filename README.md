@@ -29,6 +29,12 @@
       </a>
       <br>github
     </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65" height="65" alt="vscode" />
+      </a>
+      <br>vscode
+    </td>
       </a>
     </td>
   </tr> 
