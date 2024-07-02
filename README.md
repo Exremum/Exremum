@@ -31,7 +31,7 @@
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65" height="65" alt="vscode" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="vscode" />
       </a>
       <br>vscode
     </td>
@@ -39,22 +39,3 @@
     </td>
   </tr> 
 </table>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-      alt="vscode"
-      width="40"
-      height="40"
-    />
