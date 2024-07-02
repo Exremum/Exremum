@@ -6,7 +6,8 @@
   <img height="250" src="https://media1.tenor.com/m/u5uXD3icJ1kAAAAC/simpsons-homer-simpson.gif"  />
 </div>
 
-<h2 align="center">🦖I have skills:</h2>
+
+<h2 align="center" img src="octocats/octocat-squid.gif" width="40" height="40">🦖I have skills:</h2>
 
 <table width='100%'>
   <tr>
