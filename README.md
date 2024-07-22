@@ -57,6 +57,9 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"  />
 </div>
 
+<h3>📞 Contact me:</h3>
+<a href="https://t.me/anikola01"><img src="https://img.shields.io/badge/-Telegram-5194f0?style=flat-square&logo=Telegram&color=grey" /></a>
+
 ###
 
 <div align="center">
@@ -64,6 +67,3 @@
 </div>
 
 ###
-
-<h3>📞 Contact me:</h3>
-<a href="https://t.me/anikola01"><img src="https://img.shields.io/badge/-Telegram-5194f0?style=flat-square&logo=Telegram&color=grey" /></a>
