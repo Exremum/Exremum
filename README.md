@@ -52,4 +52,11 @@
   <p align="center"><img alt="github streak" width="420" src="https://streak-stats.demolab.com/?user=Exremum&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3"></p>
 </details>
 </h3>
-<p align="center" img src="https://visitcount.itsvg.in/api?id=Exremum&label=Profile%20Views&color=1&icon=0&pretty=true">
+
+###
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Exremum&label=Profile%20Views&color=1&icon=0&pretty=true"  />
+</div>
+
+###
