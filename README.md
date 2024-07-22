@@ -53,6 +53,10 @@
 </details>
 </h3>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"  />
+</div>
+
 ###
 
 <div align="center">
@@ -60,7 +64,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"  />
-</div>
