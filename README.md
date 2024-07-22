@@ -8,7 +8,7 @@
 
 <h2 align="center">🦖I have skills:</h2>
 
-<table width='100%'>
+<table width='100%' align="center">
   <tr>
     </td>
         <td align="center" width="110" height="90">
