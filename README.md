@@ -44,10 +44,10 @@
 <details>
   <summary>GitHub Stats</summary>
   <table align="center">
-   
+   <tr>
       <td><img alt="github stats" width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=Exremum&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" /></td>
       <td><img alt="github stats" width="550px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Exremum&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" /></td>
-    
+   </tr>
   </table>
   <p align="center"><img alt="github streak" width="420" src="https://streak-stats.demolab.com/?user=Exremum&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3"></p>
 </details>
