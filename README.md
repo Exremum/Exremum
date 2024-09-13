@@ -15,25 +15,25 @@
       <a href="#">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
       </a>
-      <br>Html5
+      <br>HTML5
     </td>
          <td align="center" width="110" height="90"> 
       <a href="#" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="36" height="36" alt="css3" />
       </a>
-      <br>Css3
+      <br>CSS3
     </td>
      <td align="center" width="110" height="90"> 
       <a href="#" >
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="github" />
       </a>
-      <br>github
+      <br>GitHub
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#" >
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="vscode" />
       </a>
-      <br>vscode
+      <br>VSCODE
     </td>
       </a>
     </td>
