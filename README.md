@@ -9,7 +9,7 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">About me:
 - ⚡I am a frontend developer.
 - 📌 I am a frontend developer of a very interesting project.
-<p>🎯 My hobbies in my free time:</p>
+<p> - 🎯 My hobbies in my free time:</p>
 - 🎮 Computer games
 - <img src="cube.gif" width="30px"> Speedcubing
 - 📚 Reading books
