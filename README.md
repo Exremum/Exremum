@@ -6,6 +6,8 @@
   <img height="250" src="https://media1.tenor.com/m/u5uXD3icJ1kAAAAC/simpsons-homer-simpson.gif"  />
 </div>
 
+Я frontend - разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
+
 <h2 align="center">🦖I have skills:</h2>
 
 <table width='100%' align="center">
