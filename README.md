@@ -12,7 +12,7 @@
 
 🎯 **My hobbies in my free time:**
 - 🎮 Computer games
-- <img src="cube.gif" width="30px" top: center> Speedcubing
+- <img src="cube.gif" width="30px"> Speedcubing
 - 📚 Reading books
 
 <h2 align="center">🦖I have skills:</h2>
