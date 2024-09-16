@@ -8,7 +8,7 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">**About me:**
 - ⚡I am a frontend developer.
-- 📌 Developed the frontend part of a very interesting project 🍪
+- 📌 Developed the frontend part of a very interesting project <a href:"http://climbmates.ru/landing"> <img src="https://climbmates.ru/static/ico/favicon.ico" alt="climbmates" width="30"/>🍪
 
 🎯 **My hobbies in my free time:**
 - 🎮 Computer games
