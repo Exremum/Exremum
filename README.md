@@ -6,7 +6,7 @@
   <img height="250" src="https://media1.tenor.com/m/u5uXD3icJ1kAAAAC/simpsons-homer-simpson.gif"  />
 </div>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">About me:
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">**About me:**
 - ⚡I am a frontend developer.
 - 📌 I am a frontend developer of a very interesting project.
 - 🎯 **My hobbies in my free time:**
