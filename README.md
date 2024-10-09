@@ -16,6 +16,7 @@
 - 🎮 Computer games
 - <img src="cube.gif" width="30px"> Speedcubing
 - 📚 Reading books
+- 🏓 Table tennis
 
 ---
 
