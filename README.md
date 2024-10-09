@@ -36,11 +36,11 @@
   <summary>GitHub Stats</summary>
   <table align="center">
    <tr>
-      <td><img alt="github stats" width="550px" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Exremum&theme=solarized_dark" /></td>
-      <td><img alt="github stats" width="750px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Exremum&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" /></td>
+      <td><img alt="github stats" width="550px" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Exremum&theme=merko" /></td>
+      <td><img alt="github stats" width="750px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exremum&layout=compact&theme=merko" /></td>
    </tr>
   </table>
-  <p align="center"><img alt="github streak" width="420" src="https://streak-stats.demolab.com/?user=Exremum&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3"></p>
+  <p align="center"><img alt="github streak" width="420" src="https://github-readme-stats.vercel.app/api?username=Exremum&show_icons=true&theme=merko"></p>
 </details>
 </h3>
 
