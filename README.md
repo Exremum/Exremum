@@ -23,27 +23,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCODE" alt="VSCODE" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCODE" alt="VSCODE" width="40" height="40"/>&nbsp
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
 </div>
-    
-      
-     <td align="center" width="110" height="90"> 
-      <a href="#" >
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="github" />
-      </a>
-      <br>GitHub
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="vscode" />
-      </a>
-      <br>VSCODE
-    </td>
-      </a>
-    </td>
-  </tr> 
-</table>
 
 <h3>
 <details>
