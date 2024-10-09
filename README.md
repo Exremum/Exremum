@@ -23,33 +23,11 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/antdesign/antdesign-original.svg" title="antdesign" alt="antdesign" width="40" height="40"/>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCODE" alt="VSCODE" width="40" height="40"/>
 </div>
-
-<table width='100%' align="center">
-  <tr>
-    </td>
-        <td align="center" width="110" height="90">
-      <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
-      </a>
-      <br>HTML5
-    </td>
-         <td align="center" width="110" height="90"> 
-      <a href="#" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="36" height="36" alt="css3" />
-      </a>
-      <br>CSS3
-    </td>
-    <table width='100%' align="center">
-  <tr>
-    </td>
-        <td align="center" width="110" height="90">
-      <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
-      </a>
-      <br>JavaScript
-    </td>
+    
+      
      <td align="center" width="110" height="90"> 
       <a href="#" >
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="github" />
