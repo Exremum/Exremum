@@ -36,8 +36,8 @@
   <summary>GitHub Stats</summary>
   <table align="center">
    <tr>
-      <td><img alt="github stats" width="550px" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Exremum&theme=merko" /></td>
-      <td><img alt="github stats" width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exremum&layout=compact&theme=merko" /></td>
+      <td><img alt="github stats" width="450px" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Exremum&theme=merko" /></td>
+      <td><img alt="github stats" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exremum&layout=compact&theme=merko" /></td>
    </tr>
   </table>
   <p align="center"><img alt="github streak" width="420" src="https://github-readme-stats.vercel.app/api?username=Exremum&show_icons=true&theme=merko"></p>
