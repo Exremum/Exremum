@@ -31,8 +31,8 @@
 
 ---
 
-<h3>
 ### GitHub Stats:
+<h3>
 <table align="center">
 <img alt="github stats" width="350px" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Exremum&theme=merko" /></td>
 <img alt="github stats" width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exremum&layout=compact&theme=merko" /></td>
