@@ -15,8 +15,6 @@
 - <img src="cube.gif" width="30px"> Speedcubing
 - 📚 Reading books
 
-<h2 align="center">🦖I have skills:</h2>
-
 ### 💻 Технологии:
 
 <div>
@@ -24,7 +22,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCODE" alt="VSCODE" width="40" height="40"/>&nbsp
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" title="GitHub" alt="GitHub" width="42" height="42"/>
 </div>
 
 <h3>
