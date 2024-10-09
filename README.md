@@ -35,7 +35,7 @@
 <h3>
 <table align="center">
 <img alt="github stats" width="350px" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Exremum&theme=merko" />
-<img alt="github stats" width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exremum&layout=compact&theme=merko" />
+<img alt="github stats" width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exremum&layout=compact&theme=merko" />
 <img alt="github streak" width="420" src="https://github-readme-stats.vercel.app/api?username=Exremum&show_icons=true&theme=merko"></p>
 </h3>
 
