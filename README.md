@@ -17,6 +17,8 @@
 - <img src="cube.gif" width="30px"> Speedcubing
 - 📚 Reading books
 
+---
+
 ### 💻 Технологии:
 
 <div>
@@ -26,6 +28,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCODE" alt="VSCODE" width="40" height="40"/>&nbsp
     <img src="https://techstack-generator.vercel.app/github-icon.svg" title="GitHub" alt="GitHub" width="50" height="50"/>
 </div>
+
+---
 
 <h3>
 <details>
@@ -40,9 +44,13 @@
 </details>
 </h3>
 
+---
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"  />
 </div>
+
+---
 
 <h3>📞 Contact me:</h3>
 <a href="https://t.me/anikola01"><img src="https://img.shields.io/badge/-Telegram-5194f0?style=flat-square&logo=Telegram&color=grey" /></a>
