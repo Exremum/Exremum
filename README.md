@@ -31,7 +31,7 @@
 
 ---
 
-### GitHub Stats:
+### 🎯GitHub Stats:
 <h3>
 <p align="center">
 <img alt="github stats" width="350px" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Exremum&theme=merko"/>
