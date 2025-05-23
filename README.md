@@ -23,12 +23,7 @@
 ### 💻 Tech Stack:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-</div>
-
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCODE" alt="VSCODE" width="40" height="40"/>&nbsp
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" title="GitHub" alt="GitHub" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,vscode,github" />
 </div>
 
 ---
